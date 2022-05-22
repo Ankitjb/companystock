@@ -1,5 +1,6 @@
 ## About Company Stock Application
-1) Run following commands for application setup
+1) Copy .env.example to .env file.
+2) Run following commands for application setup
     - git clone <this repository link> companystock
     - composer install
     - composer dump-autoload
