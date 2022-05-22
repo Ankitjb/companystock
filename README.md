@@ -19,7 +19,7 @@
 4) Run following command to start server.
     - php artisan serve
 
-5) Run following command to run in background
+5) Run following command to run queue worker in background
     - php /var/www/html/artisan queue:work --sleep=3 --tries=3
    
 6) Run following command to run phpunit to check and show result of application's testcases.
